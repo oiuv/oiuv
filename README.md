@@ -9,7 +9,7 @@
 [![Created Badge](https://badges.pufler.dev/created/oiuv/oiuv)](https://github.com/oiuv)
 [![Updated Badge](https://badges.pufler.dev/updated/oiuv/oiuv)](https://github.com/oiuv)
 -->
-
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oiuv&show_icons=true&theme=tokyonight)](https://github.com/oiuv)
 
 <!--
