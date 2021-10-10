@@ -1,8 +1,9 @@
 ### Hi there 👋
-
+<!--
 [![Contributors Display](https://badges.pufler.dev/contributors/oiuv/oiuv?size=50&padding=5&bots=true)](https://github.com/oiuv)
-[![Repos Badge](https://badges.pufler.dev/repos/oiuv)](https://github.com/oiuv)
+-->
 [![Years Badge](https://badges.pufler.dev/years/oiuv)](https://github.com/oiuv)
+[![Repos Badge](https://badges.pufler.dev/repos/oiuv)](https://github.com/oiuv)
 [![Visits Badge](https://badges.pufler.dev/visits/oiuv/oiuv)](https://github.com/oiuv)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/oiuv)](https://github.com/oiuv)
 <!--
