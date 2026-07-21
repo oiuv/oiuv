@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+✨ **你好，我的朋友，技术在于折腾** ✨
+
+</div>
